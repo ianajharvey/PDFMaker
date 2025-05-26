@@ -41,5 +41,6 @@ with st.form(key="pdfPrint"):
 
     if printButton:
         printPDF.generatePDF()
+        os.remove(PDFFILE)
 
 
