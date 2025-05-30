@@ -43,7 +43,7 @@ To run this app locally:
 
 3. **Run the app:**
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ---
